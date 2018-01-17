@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F4683EA2-C0D3-4E92-992A-8786FC346DC9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TaseronTakip</RootNamespace>
+    <AssemblyName>TaseronTakip</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>construction-firm.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankaCikis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankaCikis.Designer.cs">
+      <DependentUpon>BankaCikis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankaCikisGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankaCikisGuncelle.Designer.cs">
+      <DependentUpon>BankaCikisGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankaGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankaGiris.Designer.cs">
+      <DependentUpon>BankaGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankaGirisGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankaGirisGuncelle.Designer.cs">
+      <DependentUpon>BankaGirisGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankaRaporlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankaRaporlari.Designer.cs">
+      <DependentUpon>BankaRaporlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CariEkstresi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CariEkstresi.Designer.cs">
+      <DependentUpon>CariEkstresi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CariFaturaRaporlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CariFaturaRaporlari.Designer.cs">
+      <DependentUpon>CariFaturaRaporlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CariOdemeRaporlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CariOdemeRaporlari.Designer.cs">
+      <DependentUpon>CariOdemeRaporlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CekCikis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CekCikis.Designer.cs">
+      <DependentUpon>CekCikis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CekGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CekGiris.Designer.cs">
+      <DependentUpon>CekGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CekCikisGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CekCikisGuncelle.Designer.cs">
+      <DependentUpon>CekCikisGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CekGirisGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CekGirisGuncelle.Designer.cs">
+      <DependentUpon>CekGirisGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CekRaporlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CekRaporlari.Designer.cs">
+      <DependentUpon>CekRaporlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\Banka.cs" />
+    <Compile Include="Class\Cek.cs" />
+    <Compile Include="Class\Nakit.cs" />
+    <Compile Include="Class\Personel.cs" />
+    <Compile Include="Class\Senet.cs" />
+    <Compile Include="connect.cs" />
+    <Compile Include="Anamenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anamenu.Designer.cs">
+      <DependentUpon>Anamenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirmaFaturaTahukkuk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirmaFaturaTahukkuk.Designer.cs">
+      <DependentUpon>FirmaFaturaTahukkuk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirmaFaturaTahukkukGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirmaFaturaTahukkukGuncelle.Designer.cs">
+      <DependentUpon>FirmaFaturaTahukkukGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NakitCikis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NakitCikis.Designer.cs">
+      <DependentUpon>NakitCikis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NakitCikisGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NakitCikisGuncelle.Designer.cs">
+      <DependentUpon>NakitCikisGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NakitGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NakitGiris.Designer.cs">
+      <DependentUpon>NakitGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NakitGirisGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NakitGirisGuncelle.Designer.cs">
+      <DependentUpon>NakitGirisGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NakitRaporlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NakitRaporlari.Designer.cs">
+      <DependentUpon>NakitRaporlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelCariKarti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelCariKarti.designer.cs">
+      <DependentUpon>PersonelCariKarti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelCariKartiGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelCariKartiGuncelle.Designer.cs">
+      <DependentUpon>PersonelCariKartiGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelMaasRaporlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelMaasRaporlari.Designer.cs">
+      <DependentUpon>PersonelMaasRaporlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelTahakkukRaporlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelTahakkukRaporlari.Designer.cs">
+      <DependentUpon>PersonelTahakkukRaporlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelTahakkuk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelTahakkuk.Designer.cs">
+      <DependentUpon>PersonelTahakkuk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelTahakkukGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelTahakkukGuncelle.Designer.cs">
+      <DependentUpon>PersonelTahakkukGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RaporlarCariEkstresi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RaporlarCariEkstresi.Designer.cs">
+      <DependentUpon>RaporlarCariEkstresi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RaporlarCariFaturalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RaporlarCariFaturalar.Designer.cs">
+      <DependentUpon>RaporlarCariFaturalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RaporlarKasaBanka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RaporlarKasaBanka.Designer.cs">
+      <DependentUpon>RaporlarKasaBanka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RaporlarKasaCek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RaporlarKasaCek.Designer.cs">
+      <DependentUpon>RaporlarKasaCek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RaporlarKasaNakit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RaporlarKasaNakit.Designer.cs">
+      <DependentUpon>RaporlarKasaNakit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RaporlarKasaSenet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RaporlarKasaSenet.Designer.cs">
+      <DependentUpon>RaporlarKasaSenet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RaporlarPersonellerTahakkuk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RaporlarPersonellerTahakkuk.Designer.cs">
+      <DependentUpon>RaporlarPersonellerTahakkuk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RaporlarPersonellerUcret.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RaporlarPersonellerUcret.Designer.cs">
+      <DependentUpon>RaporlarPersonellerUcret.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SenetCikis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SenetCikis.Designer.cs">
+      <DependentUpon>SenetCikis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SenetCikisGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SenetCikisGuncelle.Designer.cs">
+      <DependentUpon>SenetCikisGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SenetGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SenetGiris.Designer.cs">
+      <DependentUpon>SenetGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SenetGirisGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SenetGirisGuncelle.Designer.cs">
+      <DependentUpon>SenetGirisGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SenetRaporlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SenetRaporlari.Designer.cs">
+      <DependentUpon>SenetRaporlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TedarikciCariKarti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TedarikciCariKarti.designer.cs">
+      <DependentUpon>TedarikciCariKarti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TedarikciCariKartiGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TedarikciCariKartiGuncelle.Designer.cs">
+      <DependentUpon>TedarikciCariKartiGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YedekAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YedekAl.Designer.cs">
+      <DependentUpon>YedekAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YedekGeriYukle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YedekGeriYukle.Designer.cs">
+      <DependentUpon>YedekGeriYukle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniBankaCikis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniBankaCikis.Designer.cs">
+      <DependentUpon>YeniBankaCikis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniBankaGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniBankaGiris.Designer.cs">
+      <DependentUpon>YeniBankaGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniCekCikis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniCekCikis.Designer.cs">
+      <DependentUpon>YeniCekCikis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniCekGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniCekGiris.Designer.cs">
+      <DependentUpon>YeniCekGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniFaturaTahukkuk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniFaturaTahukkuk.Designer.cs">
+      <DependentUpon>YeniFaturaTahukkuk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniKasa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniKasa.Designer.cs">
+      <DependentUpon>YeniKasa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniNakitCikis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniNakitCikis.Designer.cs">
+      <DependentUpon>YeniNakitCikis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniNakitGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniNakitGiris.Designer.cs">
+      <DependentUpon>YeniNakitGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniPersonel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniPersonel.Designer.cs">
+      <DependentUpon>YeniPersonel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniSenetCikis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniSenetCikis.Designer.cs">
+      <DependentUpon>YeniSenetCikis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniSenetGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniSenetGiris.Designer.cs">
+      <DependentUpon>YeniSenetGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniTahakkuk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniTahakkuk.Designer.cs">
+      <DependentUpon>YeniTahakkuk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniTedarikci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniTedarikci.Designer.cs">
+      <DependentUpon>YeniTedarikci.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anamenu.resx">
+      <DependentUpon>Anamenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankaCikis.resx">
+      <DependentUpon>BankaCikis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankaCikisGuncelle.resx">
+      <DependentUpon>BankaCikisGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankaGiris.resx">
+      <DependentUpon>BankaGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankaGirisGuncelle.resx">
+      <DependentUpon>BankaGirisGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankaRaporlari.resx">
+      <DependentUpon>BankaRaporlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CariEkstresi.resx">
+      <DependentUpon>CariEkstresi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CariFaturaRaporlari.resx">
+      <DependentUpon>CariFaturaRaporlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CariOdemeRaporlari.resx">
+      <DependentUpon>CariOdemeRaporlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CekCikis.resx">
+      <DependentUpon>CekCikis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CekGiris.resx">
+      <DependentUpon>CekGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CekCikisGuncelle.resx">
+      <DependentUpon>CekCikisGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CekGirisGuncelle.resx">
+      <DependentUpon>CekGirisGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CekRaporlari.resx">
+      <DependentUpon>CekRaporlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirmaFaturaTahukkuk.resx">
+      <DependentUpon>FirmaFaturaTahukkuk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirmaFaturaTahukkukGuncelle.resx">
+      <DependentUpon>FirmaFaturaTahukkukGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NakitCikis.resx">
+      <DependentUpon>NakitCikis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NakitCikisGuncelle.resx">
+      <DependentUpon>NakitCikisGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NakitGiris.resx">
+      <DependentUpon>NakitGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NakitGirisGuncelle.resx">
+      <DependentUpon>NakitGirisGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NakitRaporlari.resx">
+      <DependentUpon>NakitRaporlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelCariKarti.resx">
+      <DependentUpon>PersonelCariKarti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelCariKartiGuncelle.resx">
+      <DependentUpon>PersonelCariKartiGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelMaasRaporlari.resx">
+      <DependentUpon>PersonelMaasRaporlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelTahakkukRaporlari.resx">
+      <DependentUpon>PersonelTahakkukRaporlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelTahakkuk.resx">
+      <DependentUpon>PersonelTahakkuk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelTahakkukGuncelle.resx">
+      <DependentUpon>PersonelTahakkukGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Raporlama\BankaKasa.rdlc" />
+    <EmbeddedResource Include="Raporlama\CekKasa.rdlc" />
+    <EmbeddedResource Include="Raporlama\SenetKasa.rdlc" />
+    <EmbeddedResource Include="Raporlama\NakitKasa.rdlc" />
+    <EmbeddedResource Include="RaporlarCariEkstresi.resx">
+      <DependentUpon>RaporlarCariEkstresi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RaporlarCariFaturalar.resx">
+      <DependentUpon>RaporlarCariFaturalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RaporlarKasaBanka.resx">
+      <DependentUpon>RaporlarKasaBanka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RaporlarKasaCek.resx">
+      <DependentUpon>RaporlarKasaCek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RaporlarKasaNakit.resx">
+      <DependentUpon>RaporlarKasaNakit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RaporlarKasaSenet.resx">
+      <DependentUpon>RaporlarKasaSenet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RaporlarPersonellerTahakkuk.resx">
+      <DependentUpon>RaporlarPersonellerTahakkuk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RaporlarPersonellerUcret.resx">
+      <DependentUpon>RaporlarPersonellerUcret.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SenetCikis.resx">
+      <DependentUpon>SenetCikis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SenetCikisGuncelle.resx">
+      <DependentUpon>SenetCikisGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SenetGiris.resx">
+      <DependentUpon>SenetGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SenetGirisGuncelle.resx">
+      <DependentUpon>SenetGirisGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SenetRaporlari.resx">
+      <DependentUpon>SenetRaporlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TedarikciCariKarti.resx">
+      <DependentUpon>TedarikciCariKarti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TedarikciCariKartiGuncelle.resx">
+      <DependentUpon>TedarikciCariKartiGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YedekAl.resx">
+      <DependentUpon>YedekAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YedekGeriYukle.resx">
+      <DependentUpon>YedekGeriYukle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniBankaCikis.resx">
+      <DependentUpon>YeniBankaCikis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniBankaGiris.resx">
+      <DependentUpon>YeniBankaGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniCekCikis.resx">
+      <DependentUpon>YeniCekCikis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniCekGiris.resx">
+      <DependentUpon>YeniCekGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniFaturaTahukkuk.resx">
+      <DependentUpon>YeniFaturaTahukkuk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniKasa.resx">
+      <DependentUpon>YeniKasa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniNakitCikis.resx">
+      <DependentUpon>YeniNakitCikis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniNakitGiris.resx">
+      <DependentUpon>YeniNakitGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniPersonel.resx">
+      <DependentUpon>YeniPersonel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniSenetCikis.resx">
+      <DependentUpon>YeniSenetCikis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniSenetGiris.resx">
+      <DependentUpon>YeniSenetGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniTahakkuk.resx">
+      <DependentUpon>YeniTahakkuk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniTedarikci.resx">
+      <DependentUpon>YeniTedarikci.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\DataSources\TaseronTakip.Class.Banka.datasource" />
+    <None Include="Properties\DataSources\TaseronTakip.Class.Cek.datasource" />
+    <None Include="Properties\DataSources\TaseronTakip.Class.Nakit.datasource" />
+    <None Include="Properties\DataSources\TaseronTakip.Class.Personel.datasource" />
+    <None Include="Properties\DataSources\TaseronTakip.Class.Senet.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-user-group-new-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-user-group-delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-user-group-properties-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product-sales-report-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_cascade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guncelle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musteriler.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="construction-firm.ico" />
+    <Content Include="Resources\Download Database.png" />
+    <None Include="Resources\web_downloads.png" />
+    <None Include="Resources\Vector_background1.jpg" />
+    <None Include="Resources\FCY_Logo_150x150.jpg" />
+    <None Include="Resources\mail.png" />
+    <None Include="Resources\GelisimSoft_Logo_400x400.jpg" />
+    <Content Include="Resources\Upload Database.png" />
+    <None Include="Resources\guard1.png" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\fçmedya_130_140.png" />
+    <None Include="Resources\exet.ru %2842%29.ico" />
+    <None Include="Resources\web1.png" />
+    <None Include="Resources\web.png" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\database_refresh.png" />
+    <None Include="Resources\database_add.png" />
+    <None Include="Resources\1329138232_cog-icon-2-48x48.png" />
+    <None Include="Resources\tahakkuk.png" />
+    <None Include="Resources\senet1.png" />
+    <None Include="Resources\senet.png" />
+    <None Include="Resources\502046.png" />
+    <None Include="Resources\1329137713_Bank.png" />
+    <None Include="Resources\1329137384_coins.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

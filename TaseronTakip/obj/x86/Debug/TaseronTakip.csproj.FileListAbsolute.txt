@@ -1,0 +1,477 @@
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkuk.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Properties.Resources.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniKasa.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.exe
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.pdb
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.exe
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.pdb
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKarti.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKarti.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\ResGen.read.1.tlog
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\ResGen.write.1.tlog
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Anamenu.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.KullaniciAyar.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniPersonel.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTedarikci.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikis.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaCikis.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGiris.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaGiris.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikis.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGiris.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekGiris.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekCikis.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Hakkinda.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Iletisim.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikis.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitCikis.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitGiris.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGiris.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikis.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGiris.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetCikis.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetGiris.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekAl.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekGeriYukle.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciRaporlari.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Yardim.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.cache
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.compiled
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaRaporlari.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekRaporlari.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitRaporlari.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetRaporlari.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.KasaNakitRaporlari.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTahakkuk.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTahukkuk_Iptal.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikisGuncelle.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGirisGuncelle.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikisGuncelle.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGirisGuncelle.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikisGuncelle.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGirisGuncelle.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKartiGuncelle.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukGuncelle.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikisGuncelle.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGirisGuncelle.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKartiGuncelle.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkuk.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkukGuncelle.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariFaturaTahukkuk_IPTAL.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariEkstresi.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariFaturaRaporlari.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariOdemeRaporlari.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelMaasRaporlari.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukRaporlari.resources
+D:\Etud\Windows Application\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniFaturaTahukkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Anamenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGirisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariEkstresi.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariFaturaRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariOdemeRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGirisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkukGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.KasaNakitRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGirisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKarti.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKartiGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelMaasRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaBanka.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaCek.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaNakit.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaSenet.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGirisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKarti.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKartiGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekAl.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekGeriYukle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniFaturaTahukkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniKasa.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniPersonel.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTahakkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTedarikci.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.compiled
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.csprojResolveAssemblyReference.cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarPersonellerTahakkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarPersonellerUcret.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarCariEkstresi.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarCariFaturalar.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.exe
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.pdb
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.csprojResolveAssemblyReference.cache
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.About.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Anamenu.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikis.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikisGuncelle.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGiris.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGirisGuncelle.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaRaporlari.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariEkstresi.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariFaturaRaporlari.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariOdemeRaporlari.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikis.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGiris.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikisGuncelle.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGirisGuncelle.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekRaporlari.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkuk.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkukGuncelle.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.MailForm.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikis.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikisGuncelle.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGiris.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGirisGuncelle.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitRaporlari.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKarti.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKartiGuncelle.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelMaasRaporlari.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukRaporlari.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkuk.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukGuncelle.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Properties.Resources.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarCariEkstresi.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarCariFaturalar.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaBanka.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaCek.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaNakit.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaSenet.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarPersonellerTahakkuk.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarPersonellerUcret.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikis.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikisGuncelle.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGiris.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGirisGuncelle.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetRaporlari.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKarti.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKartiGuncelle.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekAl.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekGeriYukle.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaCikis.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaGiris.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekCikis.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekGiris.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniFaturaTahukkuk.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniKasa.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitCikis.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitGiris.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniPersonel.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetCikis.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetGiris.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTahakkuk.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTedarikci.resources
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.csproj.GenerateResource.Cache
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.cache
+F:\Programlar\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.compiled
+F:\Programlar\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.exe
+F:\Programlar\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.csprojResolveAssemblyReference.cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Anamenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGirisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariEkstresi.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariFaturaRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariOdemeRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGirisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkukGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGirisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKarti.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKartiGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelMaasRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarCariEkstresi.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarCariFaturalar.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaBanka.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaCek.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaNakit.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaSenet.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarPersonellerTahakkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarPersonellerUcret.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGirisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKarti.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKartiGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekAl.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekGeriYukle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniFaturaTahukkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniKasa.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniPersonel.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTahakkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTedarikci.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\İnşaat Taşeron Takip\Kodlar\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.compiled
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.exe.config
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.csprojResolveAssemblyReference.cache
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Anamenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGirisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariEkstresi.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariFaturaRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariOdemeRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGirisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkukGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGirisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKarti.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKartiGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelMaasRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarCariEkstresi.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarCariFaturalar.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaBanka.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaCek.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaNakit.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaSenet.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarPersonellerTahakkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarPersonellerUcret.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGirisGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetRaporlari.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKarti.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKartiGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekAl.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekGeriYukle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniFaturaTahukkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniKasa.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniPersonel.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetCikis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetGiris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTahakkuk.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTedarikci.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.cache
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.exe.config
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.exe
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.pdb
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.exe
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.pdb
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.About.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Anamenu.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikis.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikisGuncelle.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGiris.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGirisGuncelle.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaRaporlari.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariEkstresi.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariFaturaRaporlari.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariOdemeRaporlari.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikis.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGiris.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikisGuncelle.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGirisGuncelle.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekRaporlari.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkuk.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkukGuncelle.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.MailForm.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikis.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikisGuncelle.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGiris.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGirisGuncelle.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitRaporlari.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKarti.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKartiGuncelle.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelMaasRaporlari.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukRaporlari.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkuk.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukGuncelle.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Properties.Resources.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarCariEkstresi.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarCariFaturalar.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaBanka.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaCek.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaNakit.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaSenet.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarPersonellerTahakkuk.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarPersonellerUcret.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikis.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikisGuncelle.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGiris.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGirisGuncelle.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetRaporlari.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKarti.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKartiGuncelle.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekAl.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekGeriYukle.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaCikis.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaGiris.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekCikis.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekGiris.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniFaturaTahukkuk.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniKasa.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitCikis.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitGiris.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniPersonel.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetCikis.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetGiris.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTahakkuk.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTedarikci.resources
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.cache
+C:\Users\Murat\Desktop\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.compiled
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.exe.config
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.exe
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\bin\Debug\TaseronTakip.pdb
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.About.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Anamenu.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikis.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaCikisGuncelle.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGiris.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaGirisGuncelle.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.BankaRaporlari.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariEkstresi.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariFaturaRaporlari.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CariOdemeRaporlari.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikis.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGiris.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekCikisGuncelle.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekGirisGuncelle.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.CekRaporlari.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkuk.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.FirmaFaturaTahukkukGuncelle.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikis.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitCikisGuncelle.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGiris.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitGirisGuncelle.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.NakitRaporlari.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKarti.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelCariKartiGuncelle.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelMaasRaporlari.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukRaporlari.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkuk.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.PersonelTahakkukGuncelle.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.Properties.Resources.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarCariEkstresi.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarCariFaturalar.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaBanka.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaCek.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaNakit.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarKasaSenet.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarPersonellerTahakkuk.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.RaporlarPersonellerUcret.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikis.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetCikisGuncelle.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGiris.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetGirisGuncelle.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.SenetRaporlari.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKarti.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.TedarikciCariKartiGuncelle.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekAl.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YedekGeriYukle.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaCikis.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniBankaGiris.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekCikis.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniCekGiris.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniFaturaTahukkuk.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniKasa.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitCikis.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniNakitGiris.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniPersonel.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetCikis.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniSenetGiris.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTahakkuk.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.YeniTedarikci.resources
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.csproj.GenerateResource.Cache
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.cache
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\RdlCompile.compiled
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.exe
+C:\Users\RUMHİM\Downloads\İnşaat Taşeron Takip Programı {Ücretsiz}\TaseronTakip\TaseronTakip\obj\x86\Debug\TaseronTakip.pdb
